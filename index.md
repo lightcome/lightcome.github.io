@@ -3,5 +3,6 @@ Hello and welcome to this blog. Edit the `index.md` file to change this content.
 ![Image of fast.ai logo](images/logo.png)
 
 ## This is a title
-
-And you can include links, like this [link to fast.ai](https://www.fast.ai). Posts will appear after this file. 
+## 这是测试博客的文件
+测试*斜体*
+light come
